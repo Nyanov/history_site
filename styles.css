@@ -69,7 +69,6 @@ img {
     margin: 20px 0;
 }
 
-/* Адаптивные стили для мобильных устройств */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2em;
